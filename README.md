@@ -62,7 +62,7 @@ Bu proje, PostgreSQL veritabanında ürünlerin depolandığı ve Go Echo framew
 2. Değişikliklerinizi yapın ve yeni bir dal oluşturun:
 
    ```bash
-   git checkout -b feature/YeniÖzellik
+   git checkout -b feature/newFeature
    ```
 
 3. Değişikliklerinizi yapın, commit'leyin ve dalınıza itin:
@@ -70,7 +70,7 @@ Bu proje, PostgreSQL veritabanında ürünlerin depolandığı ve Go Echo framew
    ```bash
    git add .
    git commit -m "Yaptığınız değişikliklerin açıklayıcı bir mesajı"
-   git push origin feature/YeniÖzellik
+   git push origin feature/newFeature
    ```
 
 4. Bir birleştirme isteği (pull request) açın ve değişikliklerinizi değerlendirin.
